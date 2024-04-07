@@ -1,0 +1,4 @@
+C:\Users\Aalyan Kazmi\Downloads\Assignment1\x64\Debug\Assignment1.vcxproj.CopyComplete
+C:\Users\Aalyan Kazmi\Downloads\Assignment1\x64\Debug\Assignment1.exe
+C:\Users\Aalyan Kazmi\Downloads\Assignment1\x64\Debug\gtest.pdb
+C:\Users\Aalyan Kazmi\Downloads\Assignment1\x64\Debug\gtest_main.pdb

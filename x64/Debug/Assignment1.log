@@ -1,0 +1,26 @@
+﻿  test.cpp
+C:\Users\Aalyan Kazmi\Downloads\Assignment1\test.cpp(27,24): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Aalyan Kazmi\Downloads\Assignment1\test.cpp(27,29): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Aalyan Kazmi\Downloads\Assignment1\test.cpp(27,34): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Aalyan Kazmi\Downloads\Assignment1\test.cpp(39,28): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Aalyan Kazmi\Downloads\Assignment1\test.cpp(39,33): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Aalyan Kazmi\Downloads\Assignment1\test.cpp(39,38): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Aalyan Kazmi\Downloads\Assignment1\test.cpp(51,19): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Aalyan Kazmi\Downloads\Assignment1\test.cpp(51,24): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Aalyan Kazmi\Downloads\Assignment1\test.cpp(51,29): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Aalyan Kazmi\Downloads\Assignment1\test.cpp(51,34): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Aalyan Kazmi\Downloads\Assignment1\test.cpp(63,19): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Aalyan Kazmi\Downloads\Assignment1\test.cpp(63,24): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Aalyan Kazmi\Downloads\Assignment1\test.cpp(63,29): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Aalyan Kazmi\Downloads\Assignment1\test.cpp(63,34): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Aalyan Kazmi\Downloads\Assignment1\test.cpp(76,22): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Aalyan Kazmi\Downloads\Assignment1\test.cpp(185,31): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Aalyan Kazmi\Downloads\Assignment1\test.cpp(185,41): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Aalyan Kazmi\Downloads\Assignment1\test.cpp(199,19): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Aalyan Kazmi\Downloads\Assignment1\test.cpp(199,24): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Aalyan Kazmi\Downloads\Assignment1\test.cpp(199,29): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Aalyan Kazmi\Downloads\Assignment1\test.cpp(199,39): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Aalyan Kazmi\Downloads\Assignment1\test.cpp(199,44): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Aalyan Kazmi\Downloads\Assignment1\test.cpp(357): warning C4700: uninitialized local variable 'm' used
+C:\Users\Aalyan Kazmi\Downloads\Assignment1\test.cpp(321): warning C4700: uninitialized local variable 'm' used
+  Assignment1.vcxproj -> C:\Users\Aalyan Kazmi\Downloads\Assignment1\x64\Debug\Assignment1.exe
