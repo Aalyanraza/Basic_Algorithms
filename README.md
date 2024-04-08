@@ -38,7 +38,6 @@ The `WarehouseAlgorithm` class contains algorithms related to warehouse manageme
 ### Methods
 
 - `hasClosePair`: Determines if there is a close pair of boxes fulfilling a specific order.
-- (Description of other methods)
 
 ## MaximizeProfit
 
@@ -60,23 +59,6 @@ The `maximizeProfit` function optimizes profit for selling oil barrels to potent
 
 The `mergeBookingSchedules` function merges booking schedules for room reservations, ensuring that all talk requests are accommodated efficiently.
 
-### Parameters
-
-- (Description of parameters)
-
-### Return Value
-
-- (Description of return value)
-
 ## MakeBookingSchedules
 
 The `makeBookingSchedules` function creates booking schedules based on room availability and talk requests.
-
-### Parameters
-
-- (Description of parameters)
-
-### Return Value
-
-- (Description of return value)
-
